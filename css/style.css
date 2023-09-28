@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Poppins&display=swap");
 
 body {
-  width: 500px;
+  width: 450px;
+  margin-inline: auto;
+  background-image: url(./img/sfondo.png);
 }
 
 header {
@@ -12,4 +14,6 @@ header {
 
 main {
   font-family: Poppins;
+  background-color: white;
+  box-shadow: 0px 5px 7px 3px;
 }
