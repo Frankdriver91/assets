@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Poppins&display=swap");
+
+body {
+  width: 500px;
+}
+
+header {
+  background-color: rgb(47, 134, 168);
+  box-shadow: 0px 5px 7px 3px;
+  font-family: Poppins;
+}
+
+main {
+  font-family: Poppins;
+}
